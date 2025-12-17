@@ -42,8 +42,10 @@ export default function Home() {
             </div>
 
             <h1 className="text-5xl md:text-7xl font-bold mb-6 text-balance">
-              Best IPTV Providers Dubai
-              <span className="block text-gold mt-2">Cheap Plans from 35 AED/Month</span>
+              IPTV Subscription in Dubai
+              <span className="block text-gold mt-2">
+                Affordable IPTV Service in UAE • Plans from 35 AED/Month
+              </span>
             </h1>
 
             <p className="text-xl md:text-2xl text-muted-foreground mb-10 max-w-3xl mx-auto text-pretty">

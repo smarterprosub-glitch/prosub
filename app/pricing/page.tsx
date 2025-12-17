@@ -8,6 +8,9 @@ export const metadata = {
   title: "Affordable IPTV Subscription Dubai - Best Cheap Plans 2025 | Smarter Pro",
   description:
     "Best IPTV providers Dubai with cheap plans starting at 35 AED/month. Affordable IPTV subscription packages for UAE - 1 month, 6 months, 1 year. HD/4K streaming, no buffering. Fast setup for Smart TV, Firestick, Android, iOS.",
+  alternates: {
+    canonical: "https://smarterprosubscription.com/pricing",
+  },
   keywords:
     "IPTV providers Dubai cheap plans, best IPTV subscription Dubai, affordable Dubai IPTV service 2025, IPTV Dubai no buffering, IPTV subscription without contract, IPTV UAE package with local channels",
 }
@@ -199,6 +202,10 @@ export default function PricingPage() {
               </Button>
             </div>
           </Card>
+          
+          <p className="text-sm text-muted-foreground text-center mt-6">
+            New user? Read our <Link href="/setup-guide" className="text-gold underline">IPTV Setup Guide for Dubai</Link>
+          </p>
         </div>
       </div>
 

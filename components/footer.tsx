@@ -50,6 +50,16 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/terms" className="text-muted-foreground hover:text-gold transition-colors">
+                  Terms & Conditions
+                </Link>
+              </li>
+              <li>
+                <Link href="/privacy" className="text-muted-foreground hover:text-gold transition-colors">
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
                 <a
                   href={`https://wa.me/971522462601`}
                   target="_blank"

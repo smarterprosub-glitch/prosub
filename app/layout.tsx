@@ -10,9 +10,11 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Best IPTV Subscription Dubai 2025 - Cheap Plans 35 AED | Smarter Pro",
-  description:
-    "Best IPTV providers Dubai with cheap plans from 35 AED/month. Affordable IPTV subscription Dubai UAE 2025. HD/4K streaming, no buffering, 24/7 support. IPTV for Smart TV, Firestick UAE, Android, iOS. اشتراك IPTV في دبي رخيص",
+  title: "IPTV Subscription in Dubai | Best IPTV Provider in UAE – Smarter Pro",
+  description: "Get a reliable IPTV subscription in Dubai with HD & 4K channels, sports, movies and 24/7 support. Trusted IPTV service in UAE.",
+  alternates: {
+    canonical: "https://smarterprosubscription.com/",
+  },
   keywords:
     "IPTV providers Dubai cheap plans, best IPTV subscription Dubai review, affordable Dubai IPTV service 2025, IPTV Dubai no buffering, IPTV free trial Dubai 2025, best IPTV apps for Smart TV in UAE, IPTV Smarters Pro setup Dubai, IPTV for sports fans in UAE, اشتراك IPTV في دبي, دليل IPTV الإمارات 2025",
   generator: "v0.app",
@@ -34,9 +36,11 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
   openGraph: {
-    title: "Best IPTV Subscription Dubai 2025 - Cheap Plans from 35 AED",
-    description:
-      "Best IPTV providers Dubai with affordable plans. HD/4K streaming, no buffering, IPTV for Smart TV & Firestick UAE. Free trial available!",
+    title: "Best IPTV Subscription in Dubai – Smarter Pro",
+    description: "Affordable IPTV service in Dubai with HD & 4K streaming. Instant activation and 24/7 support.",
+    url: "https://smarterprosubscription.com/",
+    siteName: "Smarter Pro Subscription",
+    locale: "en_AE",
     type: "website",
   },
 }

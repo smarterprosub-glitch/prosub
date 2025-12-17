@@ -261,12 +261,10 @@ function Footer() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: `https://wa.me/971522462601`,
-                                                target: "_blank",
-                                                rel: "noopener noreferrer",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                href: "/terms",
                                                 className: "text-muted-foreground hover:text-gold transition-colors",
-                                                children: "WhatsApp Support"
+                                                children: "Terms & Conditions"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/components/footer.tsx",
                                                 lineNumber: 53,
@@ -278,10 +276,27 @@ function Footer() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "mailto:smarterprosub@gmail.com",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                href: "/privacy",
                                                 className: "text-muted-foreground hover:text-gold transition-colors",
-                                                children: "Email Support"
+                                                children: "Privacy Policy"
+                                            }, void 0, false, {
+                                                fileName: "[project]/prosub/components/footer.tsx",
+                                                lineNumber: 58,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/prosub/components/footer.tsx",
+                                            lineNumber: 57,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                href: `https://wa.me/971522462601`,
+                                                target: "_blank",
+                                                rel: "noopener noreferrer",
+                                                className: "text-muted-foreground hover:text-gold transition-colors",
+                                                children: "WhatsApp Support"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/components/footer.tsx",
                                                 lineNumber: 63,
@@ -290,6 +305,21 @@ function Footer() {
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/components/footer.tsx",
                                             lineNumber: 62,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                href: "mailto:smarterprosub@gmail.com",
+                                                className: "text-muted-foreground hover:text-gold transition-colors",
+                                                children: "Email Support"
+                                            }, void 0, false, {
+                                                fileName: "[project]/prosub/components/footer.tsx",
+                                                lineNumber: 73,
+                                                columnNumber: 17
+                                            }, this)
+                                        }, void 0, false, {
+                                            fileName: "[project]/prosub/components/footer.tsx",
+                                            lineNumber: 72,
                                             columnNumber: 15
                                         }, this)
                                     ]
@@ -311,7 +341,7 @@ function Footer() {
                                     children: "Contact Info"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/components/footer.tsx",
-                                    lineNumber: 74,
+                                    lineNumber: 84,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -324,7 +354,7 @@ function Footer() {
                                                     className: "w-4 h-4 text-gold mt-0.5 flex-shrink-0"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/components/footer.tsx",
-                                                    lineNumber: 77,
+                                                    lineNumber: 87,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -333,13 +363,13 @@ function Footer() {
                                                     children: "smarterprosub@gmail.com"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/components/footer.tsx",
-                                                    lineNumber: 78,
+                                                    lineNumber: 88,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/components/footer.tsx",
-                                            lineNumber: 76,
+                                            lineNumber: 86,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -349,7 +379,7 @@ function Footer() {
                                                     className: "w-4 h-4 text-gold mt-0.5 flex-shrink-0"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/components/footer.tsx",
-                                                    lineNumber: 86,
+                                                    lineNumber: 96,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -360,13 +390,13 @@ function Footer() {
                                                     children: "+971 52 246 2601"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/components/footer.tsx",
-                                                    lineNumber: 87,
+                                                    lineNumber: 97,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/components/footer.tsx",
-                                            lineNumber: 85,
+                                            lineNumber: 95,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -376,7 +406,7 @@ function Footer() {
                                                     className: "w-4 h-4 text-gold mt-0.5 flex-shrink-0"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/components/footer.tsx",
-                                                    lineNumber: 97,
+                                                    lineNumber: 107,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -385,25 +415,25 @@ function Footer() {
                                                     children: "+971 52 246 2601"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/components/footer.tsx",
-                                                    lineNumber: 98,
+                                                    lineNumber: 108,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/components/footer.tsx",
-                                            lineNumber: 96,
+                                            lineNumber: 106,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/components/footer.tsx",
-                                    lineNumber: 75,
+                                    lineNumber: 85,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/components/footer.tsx",
-                            lineNumber: 73,
+                            lineNumber: 83,
                             columnNumber: 11
                         }, this)
                     ]
@@ -423,7 +453,7 @@ function Footer() {
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/components/footer.tsx",
-                            lineNumber: 107,
+                            lineNumber: 117,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -431,13 +461,13 @@ function Footer() {
                             children: "Premium IPTV Service | Dubai, UAE & Worldwide"
                         }, void 0, false, {
                             fileName: "[project]/prosub/components/footer.tsx",
-                            lineNumber: 108,
+                            lineNumber: 118,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/prosub/components/footer.tsx",
-                    lineNumber: 106,
+                    lineNumber: 116,
                     columnNumber: 9
                 }, this)
             ]
@@ -476,8 +506,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$foot
 ;
 ;
 const metadata = {
-    title: "Best IPTV Subscription Dubai 2025 - Cheap Plans 35 AED | Smarter Pro",
-    description: "Best IPTV providers Dubai with cheap plans from 35 AED/month. Affordable IPTV subscription Dubai UAE 2025. HD/4K streaming, no buffering, 24/7 support. IPTV for Smart TV, Firestick UAE, Android, iOS. اشتراك IPTV في دبي رخيص",
+    title: "IPTV Subscription in Dubai | Best IPTV Provider in UAE – Smarter Pro",
+    description: "Get a reliable IPTV subscription in Dubai with HD & 4K channels, sports, movies and 24/7 support. Trusted IPTV service in UAE.",
+    alternates: {
+        canonical: "https://smarterprosubscription.com/"
+    },
     keywords: "IPTV providers Dubai cheap plans, best IPTV subscription Dubai review, affordable Dubai IPTV service 2025, IPTV Dubai no buffering, IPTV free trial Dubai 2025, best IPTV apps for Smart TV in UAE, IPTV Smarters Pro setup Dubai, IPTV for sports fans in UAE, اشتراك IPTV في دبي, دليل IPTV الإمارات 2025",
     generator: "v0.app",
     icons: {
@@ -498,8 +531,11 @@ const metadata = {
         apple: "/apple-icon.png"
     },
     openGraph: {
-        title: "Best IPTV Subscription Dubai 2025 - Cheap Plans from 35 AED",
-        description: "Best IPTV providers Dubai with affordable plans. HD/4K streaming, no buffering, IPTV for Smart TV & Firestick UAE. Free trial available!",
+        title: "Best IPTV Subscription in Dubai – Smarter Pro",
+        description: "Affordable IPTV service in Dubai with HD & 4K streaming. Instant activation and 24/7 support.",
+        url: "https://smarterprosubscription.com/",
+        siteName: "Smarter Pro Subscription",
+        locale: "en_AE",
         type: "website"
     }
 };
@@ -551,12 +587,12 @@ function RootLayout({ children }) {
                     }
                 }, void 0, false, {
                     fileName: "[project]/prosub/app/layout.tsx",
-                    lineNumber: 82,
+                    lineNumber: 86,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/prosub/app/layout.tsx",
-                lineNumber: 81,
+                lineNumber: 85,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
@@ -564,7 +600,7 @@ function RootLayout({ children }) {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$header$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Header"], {}, void 0, false, {
                         fileName: "[project]/prosub/app/layout.tsx",
-                        lineNumber: 85,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -572,29 +608,29 @@ function RootLayout({ children }) {
                         children: children
                     }, void 0, false, {
                         fileName: "[project]/prosub/app/layout.tsx",
-                        lineNumber: 86,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$footer$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                         fileName: "[project]/prosub/app/layout.tsx",
-                        lineNumber: 87,
+                        lineNumber: 91,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f40$vercel$2f$analytics$2f$dist$2f$next$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Analytics"], {}, void 0, false, {
                         fileName: "[project]/prosub/app/layout.tsx",
-                        lineNumber: 88,
+                        lineNumber: 92,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/prosub/app/layout.tsx",
-                lineNumber: 84,
+                lineNumber: 88,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/prosub/app/layout.tsx",
-        lineNumber: 80,
+        lineNumber: 84,
         columnNumber: 5
     }, this);
 }
