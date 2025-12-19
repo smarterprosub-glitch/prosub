@@ -36,7 +36,7 @@ export default function HomePage() {
             Best IPTV Subscription in <span className="text-gold">Dubai 2025</span>
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto mb-6">
-            Premium IPTV service in the UAE offering seamless HD & 4K streaming on all devices.
+            Reliable IPTV service in the UAE offering seamless HD & 4K streaming on all devices.
             Experience buffer-free entertainment with our optimized service for Smart TVs, Firestick, Android, and iOS devices.
           </p>
           <div className="flex gap-3 justify-center text-sm text-muted-foreground mb-8">
