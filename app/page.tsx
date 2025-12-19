@@ -4,7 +4,7 @@ import Link from "next/link"
 import { WhatsAppButton } from "@/components/whatsapp-button"
 
 export const metadata = {
-  title: "Best IPTV Subscription in Dubai 2025 – Affordable Home IPTV Service in UAE | Smarter Pro",
+  title: "Best IPTV Subscription in Dubai 2025 – Reliable Home IPTV Service UAE | Smarter Pro",
   description: "Get the best IPTV subscription in Dubai for 2025 with Smarter Pro. Enjoy reliable HD & 4K streaming on Smart TV, Firestick, Android & iOS.",
   metadataBase: new URL('https://smarterprosubscription.com'),
   alternates: {
@@ -12,7 +12,7 @@ export const metadata = {
   },
   openGraph: {
     title: 'Best IPTV Subscription in Dubai 2025 | Smarter Pro',
-    description: 'Affordable IPTV service in UAE with HD & 4K streaming on all devices. Fast setup, no buffering, and 24/7 support.',
+    description: 'Reliable IPTV service in UAE with HD & 4K streaming on all devices. Fast setup and 24/7 support.',
     url: 'https://smarterprosubscription.com',
     siteName: 'Smarter Pro IPTV',
     locale: 'en_US',
@@ -21,7 +21,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Best IPTV Subscription in Dubai 2025 | Smarter Pro',
-    description: 'Premium IPTV service with HD/4K streaming in UAE. Works on Smart TV, Firestick, Android & iOS.',
+    description: 'Reliable IPTV service with HD/4K streaming in UAE. Works on Smart TV, Firestick, Android & iOS.',
   },
   keywords: ['IPTV Dubai', 'IPTV UAE', 'IPTV Subscription', 'Best IPTV 2025', 'IPTV for Smart TV', 'Firestick IPTV', 'IPTV for Android', 'IPTV for iOS', 'IPTV Smarters Pro', '4K IPTV'],
 }
@@ -96,8 +96,8 @@ export default function HomePage() {
                   text: "Crystal-clear picture quality with adaptive bitrate streaming for all internet speeds.",
                 },
                 {
-                  title: "Zero Buffering",
-                  text: "Optimized servers ensure smooth playback even during peak hours in the UAE.",
+                  title: "Optimized Streaming",
+                  text: "Optimized servers ensure smooth, low-buffer streaming even during peak hours in the UAE.",
                 },
                 {
                   title: "All Devices Supported",
@@ -214,13 +214,22 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* SEO CONTENT */}
+        <section className="py-12 bg-muted/20">
+          <div className="container mx-auto px-4 max-w-4xl">
+            <p className="text-muted-foreground text-center">
+              IPTV services in Dubai are increasingly used for home entertainment by families and expats looking for flexible viewing options. With IPTV, users can access television content through internet-based applications on Smart TVs, Firestick, Android devices, and iOS platforms. Choosing a reliable IPTV service in the UAE depends on factors such as device compatibility, streaming stability, setup guidance, and customer support availability.
+            </p>
+          </div>
+        </section>
+
         <section className="py-20 text-center">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-bold mb-6">
               Get Started with IPTV in Dubai Today
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto mb-8">
-              Join thousands of satisfied customers in the UAE enjoying premium IPTV service with unbeatable reliability and support.
+              Join customers across the UAE enjoying modern IPTV technology with reliable streaming and support.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
