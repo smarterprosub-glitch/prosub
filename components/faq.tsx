@@ -20,7 +20,7 @@ export function FAQ() {
     {
       question: "Is IPTV legal in Dubai? (هل IPTV في دبي قانوني؟)",
       answer:
-        "Using IPTV services is legal in Dubai and UAE when used for personal entertainment. Our service provides legitimate access to international content for expats and residents. We recommend checking local regulations for commercial use.",
+        "IPTV legality in Dubai and the UAE depends on how the service is used and the content source. Our platform provides a digital IPTV service and setup support. We encourage all users to follow local laws and regulations when accessing or viewing any content. IPTV is intended for personal entertainment use only.",
     },
     {
       question: "Do you offer IPTV free trial Dubai 2025?",

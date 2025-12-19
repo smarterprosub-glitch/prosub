@@ -314,7 +314,7 @@ function FAQ() {
         },
         {
             question: "Is IPTV legal in Dubai? (هل IPTV في دبي قانوني؟)",
-            answer: "Using IPTV services is legal in Dubai and UAE when used for personal entertainment. Our service provides legitimate access to international content for expats and residents. We recommend checking local regulations for commercial use."
+            answer: "IPTV legality in Dubai and the UAE depends on how the service is used and the content source. Our platform provides a digital IPTV service and setup support. We encourage all users to follow local laws and regulations when accessing or viewing any content. IPTV is intended for personal entertainment use only."
         },
         {
             question: "Do you offer IPTV free trial Dubai 2025?",
@@ -534,7 +534,7 @@ function Home() {
                                 className: "absolute inset-0 bg-gradient-to-b from-background via-background/95 to-background z-0"
                             }, void 0, false, {
                                 fileName: "[project]/prosub/app/page.tsx",
-                                lineNumber: 32,
+                                lineNumber: 56,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -543,12 +543,12 @@ function Home() {
                                     className: "absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(218,165,32,0.1),transparent_50%)]"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/page.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 58,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/prosub/app/page.tsx",
-                                lineNumber: 33,
+                                lineNumber: 57,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -561,12 +561,12 @@ function Home() {
                                             children: "Best IPTV Subscription Dubai 2025 - اشتراك IPTV في دبي"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 39,
+                                            lineNumber: 63,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 38,
+                                        lineNumber: 62,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -578,13 +578,13 @@ function Home() {
                                                 children: "Affordable IPTV Service in UAE • Plans from 35 AED/Month"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 46,
+                                                lineNumber: 70,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 44,
+                                        lineNumber: 68,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -592,7 +592,7 @@ function Home() {
                                         children: "Affordable IPTV subscription Dubai with HD/4K streaming, no buffering, and instant activation. Best IPTV for Smart TV, Firestick, Android & iOS. Perfect for sports fans in UAE!"
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 51,
+                                        lineNumber: 75,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -607,12 +607,12 @@ function Home() {
                                                     children: "View Cheap Plans"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 58,
+                                                    lineNumber: 82,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 57,
+                                                lineNumber: 81,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -627,12 +627,12 @@ function Home() {
                                                     children: "Get Free Trial"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 66,
+                                                    lineNumber: 90,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 60,
+                                                lineNumber: 84,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -645,18 +645,18 @@ function Home() {
                                                     children: "Plans: 35 AED/Month"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 75,
+                                                    lineNumber: 99,
                                                     columnNumber: 17
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 74,
+                                                lineNumber: 98,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 56,
+                                        lineNumber: 80,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -670,25 +670,25 @@ function Home() {
                                                 children: "+971 52 246 2601"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 81,
+                                                lineNumber: 105,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 79,
+                                        lineNumber: 103,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/prosub/app/page.tsx",
-                                lineNumber: 37,
+                                lineNumber: 61,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/prosub/app/page.tsx",
-                        lineNumber: 31,
+                        lineNumber: 55,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -704,7 +704,7 @@ function Home() {
                                             children: "Why Choose Best IPTV Subscription Dubai?"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 92,
+                                            lineNumber: 116,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -712,13 +712,13 @@ function Home() {
                                             children: "Premium features that make us the best affordable IPTV service in Dubai, UAE and worldwide"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 93,
+                                            lineNumber: 119,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/app/page.tsx",
-                                    lineNumber: 91,
+                                    lineNumber: 115,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -730,7 +730,7 @@ function Home() {
                                                     className: "w-12 h-12 text-gold mb-4"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 130,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -738,7 +738,7 @@ function Home() {
                                                     children: feature.title
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 105,
+                                                    lineNumber: 131,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -746,29 +746,29 @@ function Home() {
                                                     children: feature.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 106,
+                                                    lineNumber: 132,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, index, true, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 100,
+                                            lineNumber: 126,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/page.tsx",
-                                    lineNumber: 98,
+                                    lineNumber: 124,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/app/page.tsx",
-                            lineNumber: 90,
+                            lineNumber: 114,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/prosub/app/page.tsx",
-                        lineNumber: 89,
+                        lineNumber: 113,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -784,7 +784,7 @@ function Home() {
                                             children: "IPTV for All Devices - Setup in Minutes"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 117,
+                                            lineNumber: 143,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -792,13 +792,13 @@ function Home() {
                                             children: "How to setup IPTV in Dubai home: Compatible with Smart TV, Firestick UAE, Android, iOS, and more"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 118,
+                                            lineNumber: 146,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/app/page.tsx",
-                                    lineNumber: 116,
+                                    lineNumber: 142,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -810,7 +810,7 @@ function Home() {
                                                     className: "w-10 h-10 text-gold mx-auto mb-3"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 129,
+                                                    lineNumber: 157,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -818,7 +818,7 @@ function Home() {
                                                     children: device.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 130,
+                                                    lineNumber: 158,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -826,18 +826,18 @@ function Home() {
                                                     children: device.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 131,
+                                                    lineNumber: 159,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, index, true, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 125,
+                                            lineNumber: 153,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/page.tsx",
-                                    lineNumber: 123,
+                                    lineNumber: 151,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -851,28 +851,28 @@ function Home() {
                                             children: "View Complete Setup Guide"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/page.tsx",
-                                            lineNumber: 138,
+                                            lineNumber: 166,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 137,
+                                        lineNumber: 165,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/page.tsx",
-                                    lineNumber: 136,
+                                    lineNumber: 164,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/app/page.tsx",
-                            lineNumber: 115,
+                            lineNumber: 141,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/prosub/app/page.tsx",
-                        lineNumber: 114,
+                        lineNumber: 140,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -887,7 +887,7 @@ function Home() {
                                         children: "Ready to Start Your IPTV Journey?"
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 148,
+                                        lineNumber: 176,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -895,7 +895,7 @@ function Home() {
                                         children: "Join thousands enjoying the best IPTV subscription Dubai review-rated service"
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 149,
+                                        lineNumber: 179,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -903,7 +903,7 @@ function Home() {
                                         children: "Affordable plans: 35 AED/month • 180 AED/6 months • 360 AED/year"
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 152,
+                                        lineNumber: 182,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -911,7 +911,7 @@ function Home() {
                                         children: "Pay securely online with our safe payment link • Call or WhatsApp for more info"
                                     }, void 0, false, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 155,
+                                        lineNumber: 185,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -926,12 +926,12 @@ function Home() {
                                                     children: "View All Plans"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 160,
+                                                    lineNumber: 190,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 159,
+                                                lineNumber: 189,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -946,50 +946,50 @@ function Home() {
                                                     children: "WhatsApp for Free Trial"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/page.tsx",
-                                                    lineNumber: 168,
+                                                    lineNumber: 198,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/page.tsx",
-                                                lineNumber: 162,
+                                                lineNumber: 192,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/prosub/app/page.tsx",
-                                        lineNumber: 158,
+                                        lineNumber: 188,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/prosub/app/page.tsx",
-                                lineNumber: 147,
+                                lineNumber: 175,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/prosub/app/page.tsx",
-                            lineNumber: 146,
+                            lineNumber: 174,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/prosub/app/page.tsx",
-                        lineNumber: 145,
+                        lineNumber: 173,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$faq$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["FAQ"], {}, void 0, false, {
                         fileName: "[project]/prosub/app/page.tsx",
-                        lineNumber: 182,
+                        lineNumber: 212,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/prosub/app/page.tsx",
-                lineNumber: 29,
+                lineNumber: 53,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$whatsapp$2d$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["WhatsAppButton"], {}, void 0, false, {
                 fileName: "[project]/prosub/app/page.tsx",
-                lineNumber: 185,
+                lineNumber: 215,
                 columnNumber: 7
             }, this)
         ]

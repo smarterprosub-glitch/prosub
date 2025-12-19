@@ -60,6 +60,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/disclaimer" className="text-muted-foreground hover:text-gold transition-colors">
+                  Disclaimer
+                </Link>
+              </li>
+              <li>
                 <a
                   href={`https://wa.me/971522462601`}
                   target="_blank"

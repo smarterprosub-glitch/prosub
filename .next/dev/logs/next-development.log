@@ -1,11 +1,196 @@
-[00:00:05.009] Server  LOG      ✓ Ready in 3.4s
-[00:00:13.111] Server  LOG      ○ Compiling / ...
-[00:00:25.149] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:25.586] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:25.586] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:25.586] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765984716429}
-[00:02:24.895] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/terms color: rgb(120, 120, 120) color: inherit {"dp":"/terms","o":"http://localhost:3000/terms","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765984835727}
-[00:02:40.310] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765984851113}
-[00:06:22.620] Server  LOG      ✓ Compiled in 438ms
-[00:06:41.185] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/privacy color: rgb(120, 120, 120) color: inherit {"dp":"/privacy","o":"http://localhost:3000/privacy","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765985092019}
-[00:06:47.567] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765985098396}
+[00:00:01.470] Server  LOG      ✓ Ready in 981ms
+[00:00:07.129] Server  LOG      ○ Compiling / ...
+[00:00:09.963] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:10.161] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:10.161] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:10.161] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765990323532}
+[00:15:08.403] Server  LOG      ✓ Compiled in 372ms
+[00:15:08.545] Browser ERROR   ./prosub/app/page.tsx:11:3
+Parsing ecmascript source code failed
+   9 |     "Get the best IPTV subscription in Dubai for 2025 with Smarter Pro. Enjoy reliable HD & 4K streaming on Smart TV, Firestick, Android & iOS. Fast setup, no buffering, and 24/7 support. Flexible plans available.",
+  10 |   keywords: "IPTV Dubai, IPTV UAE, IPTV Subscription, Best IPTV 2025, IPTV for Smart TV, Firestick IPTV, IPTV for Android, IPTV for iOS, IPTV Smarters Pro, 4K IPTV"
+> 11 |   alternates: {
+     |   ^^^^^^^^^^
+  12 |     canonical: "https://smarterprosubscription.com/",
+  13 |   },
+  14 | }
+
+Expected ',', got 'alternates'
+[00:15:45.538] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:15:54.582] Server  ERROR    ⨯ ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+
+
+[00:15:54.717] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:15:55.634] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:15:55.751] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:15:56.567] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:15:56.732] Browser ERROR   uncaughtError: Error: ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+
+
+[00:15:56.919] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:15:56.919] Browser ERROR   ./prosub/app/page.tsx:221:19
+Parsing ecmascript source code failed
+  219 |             </Button>
+  220 |           </div>
+> 221 |         </section>
+      |                   ^
+> 222 |
+      | ^
+> 223 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  224 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  225 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  226 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:16:16.548] Browser ERROR   ./prosub/app/page.tsx:234:19
+Parsing ecmascript source code failed
+  232 |             </Button>
+  233 |           </div>
+> 234 |         </section>
+      |                   ^
+> 235 |
+      | ^
+> 236 |         {/* LEGAL / SAFE NOTICE */}
+      | ^^^^^^^^^
+  237 |         <section className="py-12 text-center text-sm text-muted-foreground max-w-4xl mx-auto px-4">
+  238 |           <h3 className="text-lg font-medium mb-6">IPTV in Dubai – Important Usage Information</h3>
+  239 |           <div className="space-y-4 text-left">
+
+Expected '</', got 'jsx text (
+
+        )'
+[00:16:24.467] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:25.548] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:16:25.548] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:16:25.548] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765991298103}

@@ -245,6 +245,9 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$what
 const metadata = {
     title: "Affordable IPTV Subscription Dubai - Best Cheap Plans 2025 | Smarter Pro",
     description: "Best IPTV providers Dubai with cheap plans starting at 35 AED/month. Affordable IPTV subscription packages for UAE - 1 month, 6 months, 1 year. HD/4K streaming, no buffering. Fast setup for Smart TV, Firestick, Android, iOS.",
+    alternates: {
+        canonical: "https://smarterprosubscription.com/pricing"
+    },
     keywords: "IPTV providers Dubai cheap plans, best IPTV subscription Dubai, affordable Dubai IPTV service 2025, IPTV Dubai no buffering, IPTV subscription without contract, IPTV UAE package with local channels"
 };
 function PricingPage() {
@@ -322,13 +325,13 @@ function PricingPage() {
                                             children: "Dubai & UAE"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 78,
+                                            lineNumber: 81,
                                             columnNumber: 50
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 77,
+                                    lineNumber: 80,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -336,13 +339,13 @@ function PricingPage() {
                                     children: "Best IPTV providers Dubai with cheap plans for families and individuals. No contract, fast setup for all devices."
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 80,
+                                    lineNumber: 83,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                            lineNumber: 76,
+                            lineNumber: 79,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -355,7 +358,7 @@ function PricingPage() {
                                             children: "Most Popular"
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 97,
+                                            lineNumber: 100,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -366,7 +369,7 @@ function PricingPage() {
                                                     children: plan.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 103,
+                                                    lineNumber: 106,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -374,7 +377,7 @@ function PricingPage() {
                                                     children: plan.duration
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 104,
+                                                    lineNumber: 107,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -382,7 +385,7 @@ function PricingPage() {
                                                     children: plan.price
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 105,
+                                                    lineNumber: 108,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -390,7 +393,7 @@ function PricingPage() {
                                                     children: plan.priceDetail
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 106,
+                                                    lineNumber: 109,
                                                     columnNumber: 19
                                                 }, this),
                                                 plan.savings && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -398,13 +401,13 @@ function PricingPage() {
                                                     children: plan.savings
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 107,
+                                                    lineNumber: 110,
                                                     columnNumber: 36
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 102,
+                                            lineNumber: 105,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -416,7 +419,7 @@ function PricingPage() {
                                                             className: "w-5 h-5 text-gold flex-shrink-0 mt-0.5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                            lineNumber: 113,
+                                                            lineNumber: 116,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -424,18 +427,18 @@ function PricingPage() {
                                                             children: feature
                                                         }, void 0, false, {
                                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                            lineNumber: 114,
+                                                            lineNumber: 117,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, idx, true, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 112,
+                                                    lineNumber: 115,
                                                     columnNumber: 21
                                                 }, this))
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 110,
+                                            lineNumber: 113,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -450,23 +453,23 @@ function PricingPage() {
                                                 children: "Subscribe Now"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                lineNumber: 120,
+                                                lineNumber: 123,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 119,
+                                            lineNumber: 122,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, index, true, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 88,
+                                    lineNumber: 91,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                            lineNumber: 86,
+                            lineNumber: 89,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -477,7 +480,7 @@ function PricingPage() {
                                     children: "Secure Online Payment Available"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 133,
+                                    lineNumber: 136,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -485,7 +488,7 @@ function PricingPage() {
                                     children: "Pay safely with our secure online payment link. For payment link and more information, contact or WhatsApp us anytime!"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 134,
+                                    lineNumber: 137,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -501,12 +504,12 @@ function PricingPage() {
                                                 children: "Get Payment Link on WhatsApp"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                lineNumber: 140,
+                                                lineNumber: 143,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 139,
+                                            lineNumber: 142,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -518,24 +521,24 @@ function PricingPage() {
                                                 children: "Call Us Now"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                lineNumber: 149,
+                                                lineNumber: 152,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 148,
+                                            lineNumber: 151,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 138,
+                                    lineNumber: 141,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                            lineNumber: 132,
+                            lineNumber: 135,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -546,7 +549,7 @@ function PricingPage() {
                                     children: "Why Choose Our Affordable IPTV Dubai Plans?"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 155,
+                                    lineNumber: 158,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -559,7 +562,7 @@ function PricingPage() {
                                                     children: "No Contract Required"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 158,
+                                                    lineNumber: 161,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -567,13 +570,13 @@ function PricingPage() {
                                                     children: "Dubai IPTV subscription without contract - cancel anytime with full flexibility."
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 159,
+                                                    lineNumber: 162,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 157,
+                                            lineNumber: 160,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -583,7 +586,7 @@ function PricingPage() {
                                                     children: "Fast Setup Guide"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 164,
+                                                    lineNumber: 167,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -591,13 +594,13 @@ function PricingPage() {
                                                     children: "Easy IPTV setup for Smart TV in UAE, Firestick, Android devices - activate in minutes."
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 165,
+                                                    lineNumber: 168,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 163,
+                                            lineNumber: 166,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -607,7 +610,7 @@ function PricingPage() {
                                                     children: "No Buffering Guarantee"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 170,
+                                                    lineNumber: 173,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -615,13 +618,13 @@ function PricingPage() {
                                                     children: "Premium stable servers ensure IPTV Dubai no buffering experience for smooth streaming."
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 171,
+                                                    lineNumber: 174,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 169,
+                                            lineNumber: 172,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -631,7 +634,7 @@ function PricingPage() {
                                                     children: "Local & International Channels"
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 176,
+                                                    lineNumber: 179,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -639,25 +642,25 @@ function PricingPage() {
                                                     children: "UAE IPTV package with local channels plus HD channels from worldwide sources."
                                                 }, void 0, false, {
                                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                    lineNumber: 177,
+                                                    lineNumber: 180,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 175,
+                                            lineNumber: 178,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 156,
+                                    lineNumber: 159,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                            lineNumber: 154,
+                            lineNumber: 157,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -668,7 +671,7 @@ function PricingPage() {
                                     children: "Need a Custom Plan for Your Business?"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 183,
+                                    lineNumber: 186,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -676,7 +679,7 @@ function PricingPage() {
                                     children: "Contact us for special IPTV packages, bulk subscriptions for hotels, restaurants, and offices in Dubai"
                                 }, void 0, false, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 184,
+                                    lineNumber: 187,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -693,12 +696,12 @@ function PricingPage() {
                                                 children: "Contact on WhatsApp"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                lineNumber: 189,
+                                                lineNumber: 192,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 188,
+                                            lineNumber: 191,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
@@ -710,40 +713,59 @@ function PricingPage() {
                                                 children: "Send Email"
                                             }, void 0, false, {
                                                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                                                lineNumber: 198,
+                                                lineNumber: 201,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                                            lineNumber: 197,
+                                            lineNumber: 200,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                                    lineNumber: 187,
+                                    lineNumber: 190,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/prosub/app/pricing/page.tsx",
-                            lineNumber: 182,
+                            lineNumber: 185,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-sm text-muted-foreground text-center mt-6",
+                            children: [
+                                "New user? Read our ",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "/setup-guide",
+                                    className: "text-gold underline",
+                                    children: "IPTV Setup Guide for Dubai"
+                                }, void 0, false, {
+                                    fileName: "[project]/prosub/app/pricing/page.tsx",
+                                    lineNumber: 207,
+                                    columnNumber: 32
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/prosub/app/pricing/page.tsx",
+                            lineNumber: 206,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/prosub/app/pricing/page.tsx",
-                    lineNumber: 75,
+                    lineNumber: 78,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                lineNumber: 74,
+                lineNumber: 77,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$prosub$2f$components$2f$whatsapp$2d$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["WhatsAppButton"], {}, void 0, false, {
                 fileName: "[project]/prosub/app/pricing/page.tsx",
-                lineNumber: 205,
+                lineNumber: 212,
                 columnNumber: 7
             }, this)
         ]
